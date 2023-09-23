@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: Trade Gothic;
+    src: url('../assets/fonts/trade-gothic/trade-gothic-lt-std-bold-extended.otf');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: Trade Gothic;
+    src: url('../assets/fonts/trade-gothic/trade-gothic-lt-std-extended.otf');
+    font-weight: normal;
+}
